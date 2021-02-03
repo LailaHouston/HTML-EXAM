@@ -1,0 +1,44 @@
+h2 {
+    color: rgb(61, 144, 172); background-color: white;
+}
+body {
+    background: rgb(240, 223, 226);
+}
+.paragraph1 {
+    background-color: rgb(225, 213, 236); font-family: Georgia;
+}
+.paragraph2 {
+    background-color: rgb(196, 245, 240);
+}
+.paragraph3 {
+    background-color: rgb(203, 250, 211);
+}
+.paragraph4 {
+    background-color: rgb(208, 238, 252);
+}
+.paragraph5 {
+    background-color: rgb(225, 213, 236);
+}
+h1 {
+    font-family: cursive;
+}
+.header {
+    background-color:white;
+    color: rgb(61, 144, 172);
+}
+.daterow {
+ background-color: rgb(222, 250, 253);
+ text-align: center;
+}
+table {
+    width: 90%;
+}
+h1 {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
